@@ -1,0 +1,5 @@
+com\seel\apod\service\ApodServiceTest.class
+com\seel\apod\SpringTest.class
+com\seel\apod\file\ApodImageWriterTest.class
+com\seel\apod\web\nasa\PicOfDayTest.class
+com\seel\apod\web\util\ImageDownloaderTest.class
