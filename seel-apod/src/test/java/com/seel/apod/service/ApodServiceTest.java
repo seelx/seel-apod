@@ -49,6 +49,13 @@ public class ApodServiceTest extends SpringTest {
 		assert(pair != null);
 	}
 
+	@Test
+	public void download2() {
+
+		Pair<String,Apod> pair = service.download("22-Feb-15");
+		assert(pair != null);
+	}
+
 	//TODO: many tests are needed for null/argument/exception/condition branching (if hdurl empty for instance)
 
 }

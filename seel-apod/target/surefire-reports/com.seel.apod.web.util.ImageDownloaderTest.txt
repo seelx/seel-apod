@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.seel.apod.web.util.ImageDownloaderTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.156 sec - in com.seel.apod.web.util.ImageDownloaderTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.288 sec - in com.seel.apod.web.util.ImageDownloaderTest

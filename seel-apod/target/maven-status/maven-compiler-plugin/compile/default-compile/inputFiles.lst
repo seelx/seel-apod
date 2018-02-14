@@ -1,8 +1,12 @@
+C:\Charles\Development\workspaceSeelApod\seel-apod\src\main\java\com\seel\apod\util\validation\DateValidator.java
 C:\Charles\Development\workspaceSeelApod\seel-apod\src\main\java\com\seel\apod\file\ApodImageWriter.java
 C:\Charles\Development\workspaceSeelApod\seel-apod\src\main\java\com\seel\apod\web\util\TemplateErrorHandler.java
 C:\Charles\Development\workspaceSeelApod\seel-apod\src\main\java\com\seel\apod\web\util\ImageDownloader.java
+C:\Charles\Development\workspaceSeelApod\seel-apod\src\main\java\com\seel\apod\web\util\CustomRestExceptionHandler.java
 C:\Charles\Development\workspaceSeelApod\seel-apod\src\main\java\com\seel\apod\web\nasa\entity\Apod.java
 C:\Charles\Development\workspaceSeelApod\seel-apod\src\main\java\com\seel\apod\service\ApodService.java
+C:\Charles\Development\workspaceSeelApod\seel-apod\src\main\java\com\seel\apod\web\entity\SeelApod.java
+C:\Charles\Development\workspaceSeelApod\seel-apod\src\main\java\com\seel\apod\web\entity\ApiError.java
 C:\Charles\Development\workspaceSeelApod\seel-apod\src\main\java\com\seel\apod\web\ApodController.java
 C:\Charles\Development\workspaceSeelApod\seel-apod\src\main\java\com\seel\apod\Application.java
 C:\Charles\Development\workspaceSeelApod\seel-apod\src\main\java\com\seel\apod\web\nasa\PicOfDay.java

@@ -21,6 +21,7 @@ import com.seel.apod.web.util.TemplateErrorHandler;
 @Scope("prototype")
 public class PicOfDay {
 	public static Logger logger = Logger.getLogger(PicOfDay.class);
+	public static DateTime EARLIEST_DATE = new DateTime(1995,06,16,0,0);
 
 	@Autowired TemplateErrorHandler errorHandler;
 

@@ -1,8 +1,13 @@
 com\seel\apod\web\ApodController.class
-com\seel\apod\web\nasa\entity\Apod.class
+com\seel\apod\web\entity\ApiError.class
 com\seel\apod\web\util\ImageDownloader.class
-com\seel\apod\Application.class
 com\seel\apod\web\nasa\PicOfDay.class
-com\seel\apod\web\util\TemplateErrorHandler.class
+com\seel\apod\web\util\CustomRestExceptionHandler.class
+com\seel\apod\util\validation\DateValidator.class
 com\seel\apod\service\ApodService.class
+com\seel\apod\service\ApodService$ValidDateFormat.class
+com\seel\apod\web\nasa\entity\Apod.class
+com\seel\apod\Application.class
+com\seel\apod\web\util\TemplateErrorHandler.class
+com\seel\apod\web\entity\SeelApod.class
 com\seel\apod\file\ApodImageWriter.class
