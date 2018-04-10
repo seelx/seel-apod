@@ -3,7 +3,8 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        echo 'Begin Build'
+        echo 'Begin Test'
+        cleanWs(deleteDirs: true)
       }
     }
   }
