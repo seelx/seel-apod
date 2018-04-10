@@ -4,6 +4,7 @@ pipeline {
     stage('Build') {
       steps {
         echo 'Begin Build'
+        sh 'sh make'
       }
     }
   }
