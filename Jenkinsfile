@@ -4,7 +4,7 @@ pipeline {
     stage('Build') {
       steps {
         echo 'Begin Build'
-        sh 'sh make'
+        git 'git@github.com:seelx/seel-apod.git'
       }
     }
   }
